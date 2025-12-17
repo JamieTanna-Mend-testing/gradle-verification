@@ -11,4 +11,3 @@ plugins {
 }
 
 rootProject.name = "gradle-verification"
-include("lib")
